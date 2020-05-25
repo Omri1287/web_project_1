@@ -252,6 +252,10 @@
   text-align: center;
   justify-content: center;
   color:#f2f2f2;
+  background-image: url('../images/kaufman-triangle.svg');
+  background-size: 877px 877px;
+  background-position: (-210px 0);
+  background-repeat: no-repeat;
 }
 .kaufman__title_theme_dark{
   z-index: 1;
@@ -315,15 +319,11 @@
   margin-top: 20px;
 }
 
-.kaufman__triangle{
-  display: block;
-  width: 877px;
-  height: 877px;
-  right: -210px;
+/*.kaufman__triangle{
   top: 0;
   z-index: 0;
   position: absolute;
-  overflow: hidden;
+  overflow: hidden;*/
 }
 /*page 6*/
 .footer {
@@ -342,7 +342,7 @@
   margin-top: 60px;
   margin-bottom: 40px;
   justify-content: space-between;
-  background-color: wheat;
+
 }
 
 .footer__column_content_copyright {
@@ -351,13 +351,13 @@
   justify-content: space-between;
   flex-basis: 711px;
   width: 50%;
-  background-color: violet;
 }
 
 .logo__footer {
   width: 183px;
   height: 35px;
   background-color: turquoise;
+  background-image: url('../images/logo_place_footer.png');
 
 }
 
@@ -377,6 +377,7 @@
   width: 20%;
   padding: 0;
   background-color: teal;
+  min-height: 250px;
 }
 
 .footer__column-heading {
@@ -409,6 +410,7 @@
   display: flex;
   flex-direction: column;
   background-color: tomato;
+  min-height: 250px;
 }
 
 .footer__social-icon {
