@@ -356,7 +356,6 @@
 .logo__footer {
   width: 183px;
   height: 35px;
-  background-color: turquoise;
   background-image: url('../images/logo_place_footer.png');
 
 }
@@ -367,8 +366,6 @@
   font-weight: normal;
   margin-top: 18px;
   margin-bottom: 18px;
-  background-color: turquoise;
- 
 }
 
 
@@ -376,7 +373,6 @@
   height: 100%;
   width: 20%;
   padding: 0;
-  background-color: teal;
   min-height: 250px;
 }
 
@@ -387,7 +383,6 @@
   font-size: 18px;
   font-weight: bold;
   align-self: center;
-  background-color: pink;
 }
 
 .footer__column-links {
@@ -399,7 +394,6 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-  background-color: saddlebrown;
 }
 .ul li:last-child{
   margin-bottom: 16px;
@@ -409,7 +403,6 @@
   height: 100%;
   display: flex;
   flex-direction: column;
-  background-color: tomato;
   min-height: 250px;
 }
 
