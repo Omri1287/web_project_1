@@ -5,4 +5,9 @@
     margin-top: 0;
     color:#2f80ed; 
     text-decoration: none;
+    transition: opacity .3s;
   }
+
+.khan__buy-link:hover{
+opacity: 0.5;
+}

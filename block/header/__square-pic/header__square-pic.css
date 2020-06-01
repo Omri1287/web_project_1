@@ -1,11 +1,3 @@
-@keyframes spin-counterclockwise {
-  from{
-      transform: rotate(345deg);
-  }
-  to{
-      transform: rotate(15deg);
-  }
-}
 
 .header__square-pic {
   display: block;
@@ -16,8 +8,4 @@
   right: 0;
   z-index: 0;
   position: absolute;
-  transform: rotate(15deg);
-}
-.spin-counterclockwise{
-  animation: spin-counterclockwise 20s linear infinite;
 }

@@ -8,11 +8,11 @@
 @import url(./__title/khan__title.css);
 @import url(./__container/khan__container.css);
 
-.khan{
-    margin-right: auto;
-    margin-left: auto;
-    margin-bottom: 0;
-    margin-top: 105px;
-    text-align: left;
-    overflow: hidden;
-  }
+.khan {
+  padding-top: 105px;
+  background-color: #F2F2F2;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 0;
+  text-align: left;
+}
