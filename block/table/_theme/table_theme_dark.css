@@ -2,7 +2,7 @@
     z-index: 1;
     display: flex;
     list-style: none;
-    PADDING-bottom: 90px;
+    padding-bottom: 90px;
     justify-content: space-between;
     flex-wrap: wrap;
     margin-right: auto;
